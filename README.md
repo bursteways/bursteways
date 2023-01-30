@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Stephen Burke
 ### Font End Solutions Architect
 
