@@ -3,7 +3,9 @@
 
 ⤷ Hello! I'm an aspiring full-stack developer exceptionally skilled in front-end development. I'm an expert with accessibility, responsive design, and front-end architecture. I have been working with tRPC and have a few side projects. I am currently employed with Rightpoint.
 
- <a aligh="left" href="https://linktr.ee/bursteways" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/bursteways" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/stephen-burke-3aa3a537" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+ <a aligh="left" href="https://linktr.ee/bursteways" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/bursteways" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/stephen-burke-3aa3a537" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a> 
+
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/1a2d40d9-3be0-4d6b-ad8c-9c5a9bc5b686/deploy-status)](https://app.netlify.com/sites/bursteways-tech/deploys)
 
 ⚐ Based in Boston, MA
 
